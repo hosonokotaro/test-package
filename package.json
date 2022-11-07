@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hosonokotaro/test-package/issues"
   },
-  "homepage": "https://github.com/hosonokotaro/test-package#readme"
+  "homepage": "https://github.com/hosonokotaro/test-package#readme",
+  "publishConfig": {
+    "@hosonokotaro:registry": "https://npm.pkg.github.com"
+  }
 }
